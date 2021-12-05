@@ -1,0 +1,4 @@
+basic-network/bin/
+
+application/node_modules/
+application/package-lock.json
